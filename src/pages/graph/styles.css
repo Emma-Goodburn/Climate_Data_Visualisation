@@ -1,0 +1,7 @@
+.graph-container {
+  justify-self: center;
+  max-height: 60vh;
+  width: 100%;
+  justify-content: center;
+  display: flex;
+}
